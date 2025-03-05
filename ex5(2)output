@@ -1,0 +1,33 @@
+1. Add Employee
+2. Display All Employees
+3. Exit
+Choose an option: 1
+Enter Employee ID: 101
+Enter Name: Alice
+Enter Designation: Software Engineer
+Enter Salary: 70000
+Employee added successfully.
+
+1. Add Employee
+2. Display All Employees
+3. Exit
+Choose an option: 1
+Enter Employee ID: 102
+Enter Name: Bob
+Enter Designation: Data Analyst
+Enter Salary: 65000
+Employee added successfully.
+
+1. Add Employee
+2. Display All Employees
+3. Exit
+Choose an option: 2
+Employee Details:
+ID: 101, Name: Alice, Designation: Software Engineer, Salary: 70000.0
+ID: 102, Name: Bob, Designation: Data Analyst, Salary: 65000.0
+
+1. Add Employee
+2. Display All Employees
+3. Exit
+Choose an option: 3
+Exiting...
